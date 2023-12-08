@@ -2,7 +2,7 @@
 
 ## Description
 
-The Note Taker API allows the user to write and save notes. Explore the app by visiting this link:
+The Note Taker API allows the user to write and save notes. Explore the app by visiting this link: https://note-taker-api-17e96f4e9ed9.herokuapp.com/
 
 ![landing page](./public/assets/images/landing.png)
 
